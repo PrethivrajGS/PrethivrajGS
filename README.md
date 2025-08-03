@@ -33,8 +33,6 @@ A passionate Full Stack Developer from Tamil Nadu, India.
 I believe in continuous learning and tracking my progress. Here's a glimpse of my activity across different platforms:
 
 * **LeetCode:**
-    * [![LeetCode Stats](https://leetcard.yugesh.dev/PrethivrajGS.svg)](https://leetcode.com/PrethivrajGS/)
-    * [![LeetCode Streak](https://github-profile-summary-cards.vercel.app/api/cards/leetcode-streak?username=PrethivrajGS&theme=dark)](https://leetcode.com/PrethivrajGS/)
     * [My LeetCode Profile](https://leetcode.com/PrethivrajGS/)
 
 * **HackerRank:**
