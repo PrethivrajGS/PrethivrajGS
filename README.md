@@ -1,35 +1,56 @@
-<h1 align="center">Hi 👋 I'm PRETHIVRAJ GS</h1>
-<h3 align="center">A passionate Full Stack Developer from Tamil Nadu, India</h3>
+# Hi 👋 I'm PRETHIVIRAJ GS
 
-- 🌱 I’m currently learning **Node.js, React, and MongoDB**
+A passionate Full Stack Developer from Tamil Nadu, India.
 
-- 💬 Ask me about **C, C++, JavaScript, MongoDB, React, and Express**
+---
 
-- 📫 How to reach me **prithivi2303@gmail.com**
+### About Me
 
-- ⚡ Fun fact **I love debugging and optimizing code**
+* 🌱 I'm currently learning Node.js, React, and MongoDB to expand my full-stack capabilities.
+* 💻 Ask me about C, C++, JavaScript, MongoDB, React, and Express.
+* ⚡ Fun fact: I love debugging and optimizing code – it's like solving a puzzle!
+* 📍 Based in Palacode, Tamil Nadu, India.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/prethivraj-gs-b42358307" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Gmail -->
-  <a href="mailto:prithivi2303@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
-  </a>
-</p>
+### What I'm Working On & Interested In
 
+* **Building Scalable Web Applications:** Focused on creating robust and efficient full-stack solutions.
+* **Exploring New Technologies:** Always keen to learn and integrate the latest tools and frameworks into my projects.
+* **Competitive Programming/Problem Solving:** Actively working on improving my algorithmic skills.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+### Connect with Me
+
+* [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile) (Replace with your actual LinkedIn URL)
+* 📧 Reach me at: prithivi2303@gmail.com
+
+---
+
+### My Coding Journey & Progress
+
+I believe in continuous learning and tracking my progress. Here's a glimpse of my activity across different platforms:
+
+* **LeetCode:**
+    * [![LeetCode Stats](https://leetcard.yugesh.dev/prithivi2303.svg)](https://leetcode.com/prithivi2303/) (Replace `prithivi2303` with your actual LeetCode username to display your stats)
+    * (Optional: Link to your LeetCode profile directly: [My LeetCode Profile](https://leetcode.com/prithivi2303/))
+
+* **HackerRank:**
+    * (You can add a badge or link for HackerRank here if you use it)
+    * *Example for HackerRank:* `![HackerRank Badge](https://www.hackerrank.com/badges/prithivi2303/badge.svg)`
+    * *Example for HackerRank Profile:* `[My HackerRank Profile](https://www.hackerrank.com/profile/prithivi2303))`
+
+---
+
+### GitHub Stats
+
+[![PRETHIVIRAJ GS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dracula)](https://github.com/your_github_username) (Replace `your_github_username` with your actual GitHub username)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dracula)](https://github.com/your_github_username) (Replace `your_github_username` with your actual GitHub username)
+
+---
+
+### Languages and Tools
+
+| Category    | Tools & Languages
