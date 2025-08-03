@@ -44,10 +44,9 @@ I believe in continuous learning and tracking my progress. Here's a glimpse of m
 
 ### GitHub Stats
 
-[![PRETHIVIRAJ GS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dracula)](https://github.com/your_github_username) (Replace `your_github_username` with your actual GitHub username)
+[![PRETHIVIRAJ GS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=dracula)](https://github.com/PrethivrajGS)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dracula)](https://github.com/your_github_username) (Replace `your_github_username` with your actual GitHub username)
-
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=dracula)](https://github.com/PrethivrajGS)
 ---
 
 ### Languages and Tools
