@@ -1,4 +1,4 @@
-# Hi 👋 I'm PRETHIVIRAJ GS
+# Hi 👋 I'm PRETHIVRAJ GS
 
 A passionate Full Stack Developer from Tamil Nadu, India.
 
@@ -23,7 +23,7 @@ A passionate Full Stack Developer from Tamil Nadu, India.
 
 ### Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile) (Replace with your actual LinkedIn URL)
+* [LinkedIn](https://www.linkedin.com/in/prethivraj-gs-b42358307/)
 * 📧 Reach me at: prithivi2303@gmail.com
 
 ---
@@ -33,7 +33,7 @@ A passionate Full Stack Developer from Tamil Nadu, India.
 I believe in continuous learning and tracking my progress. Here's a glimpse of my activity across different platforms:
 
 * **LeetCode:**
-    * [![LeetCode Stats](https://leetcard.yugesh.dev/prithivi2303.svg)](https://leetcode.com/prithivi2303/) (Replace `prithivi2303` with your actual LeetCode username to display your stats)
+    * [![LeetCode Stats](https://leetcode.com/u/6QWLrIZgOg/))]
     * (Optional: Link to your LeetCode profile directly: [My LeetCode Profile](https://leetcode.com/prithivi2303/))
 
 * **HackerRank:**
