@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRETHIVRAJ GS</h1>
+<h1 align="center">Hi 👋 I'm PRETHIVRAJ GS</h1>
 <h3 align="center">A passionate Full Stack Developer from Tamil Nadu, India</h3>
 
 - 🌱 I’m currently learning **Node.js, React, and MongoDB**
