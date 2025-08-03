@@ -52,4 +52,11 @@ I believe in continuous learning and tracking my progress. Here's a glimpse of m
 
 ### Languages and Tools
 
-| Category    | Tools & Languages
+| Category       | Tools & Languages                                                                                                                                   |
+|--------------  |-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**  | C, C++, JavaScript, Python                                                                                                                            |
+| **Frontend**   | React, HTML, CSS, JavaScript (ES6+)                                                                                                                   |
+| **Backend**    | Node.js, Express.js                                                                                                                                    |
+| **Databases**  | MongoDB                                                                                                                                               |
+| **Tools**      | Git, GitHub, VS Code, npm, Postman                                                                                                                       |
+| **Concepts**   | RESTful APIs, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Version Control                                                  |
