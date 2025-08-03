@@ -33,8 +33,8 @@ A passionate Full Stack Developer from Tamil Nadu, India.
 I believe in continuous learning and tracking my progress. Here's a glimpse of my activity across different platforms:
 
 * **LeetCode:**
-    * [![LeetCode Stats](https://leetcode.com/u/6QWLrIZgOg/))]
-    * (Optional: Link to your LeetCode profile directly: [My LeetCode Profile](https://leetcode.com/prithivi2303/))
+    * [LeetCode Stats](https://leetcode.com/6QWLrIZgOg/))
+    * (Optional: Link to your LeetCode profile directly: [My LeetCode Profile](https://leetcode.com/6QWLrIZgOg/))
 
 * **HackerRank:**
     * (You can add a badge or link for HackerRank here if you use it)
