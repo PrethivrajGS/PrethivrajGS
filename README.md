@@ -38,8 +38,7 @@ I believe in continuous learning and tracking my progress. Here's a glimpse of m
 
 * **HackerRank:**
     * (You can add a badge or link for HackerRank here if you use it)
-    * *Example for HackerRank:* `![HackerRank Badge](https://www.hackerrank.com/badges/prithivi2303/badge.svg)
-    * *Example for HackerRank Profile:* `[My HackerRank Profile](https://www.hackerrank.com/profile/prithivi2303))
+     *Example for HackerRank Profile:* [My HackerRank Profile](https://www.hackerrank.com/profile/prithivi2303))
 
 ---
 
