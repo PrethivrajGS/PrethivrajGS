@@ -32,12 +32,14 @@ A passionate Full Stack Developer from Tamil Nadu, India.
 
 I believe in continuous learning and tracking my progress. Here's a glimpse of my activity across different platforms:
 
- **LeetCode:**
-      * [![LeetCode Stats](https://leetcard.yugesh.dev/6QWLrIZgOg.svg)](https://leetcode.com/u/6QWLrIZgOg/)
-      * [![LeetCode Streak](https://github-profile-summary-cards.vercel.app/api/cards/leetcode-streak?username=6QWLrIZgOg&theme=dark)](https://leetcode.com/u/6QWLrIZgOg/)
+* **LeetCode:**
+    * [![LeetCode Stats](https://leetcard.yugesh.dev/6QWLrIZgOg.svg)](https://leetcode.com/u/6QWLrIZgOg/)
+    * [![LeetCode Streak](https://github-profile-summary-cards.vercel.app/api/cards/leetcode-streak?username=6QWLrIZgOg&theme=dark)](https://leetcode.com/u/6QWLrIZgOg/)
+    * [My LeetCode Profile](https://leetcode.com/u/6QWLrIZgOg/)
+
 * **HackerRank:**
-    * (You can add a badge or link for HackerRank here if you use it)
-     *Example for HackerRank Profile:* [My HackerRank Profile](https://www.hackerrank.com/profile/prithivi2303))
+    * ![HackerRank Badge](https://www.hackerrank.com/badges/prithivi2303/badge.svg)
+    * [My HackerRank Profile](https://www.hackerrank.com/profile/prithivi2303)
 
 ---
 
