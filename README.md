@@ -1,4 +1,4 @@
-# Hi 👋 I'm Prethivraj GS
+/*# Hi 👋 I'm Prethivraj GS
 
 A passionate Full Stack Developer from Tamil Nadu, India.
 
@@ -58,3 +58,4 @@ I believe in continuous learning and tracking my progress. Here's a glimpse of m
 | **Databases**  | MongoDB                                                                                                                                               |
 | **Tools**      | Git, GitHub, VS Code, npm, Postman                                                                                                                       |
 | **Concepts**   | RESTful APIs, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Version Control                                                  |
+*/
