@@ -1,61 +1,73 @@
-/*# Hi 👋 I'm Prethivraj GS
-
-A passionate Full Stack Developer from Tamil Nadu, India.
-
----
-
-### About Me
-
-* 🌱 I'm currently learning Node.js, React, and MongoDB to expand my full-stack capabilities.
-* 💻 Ask me about C, C++, JavaScript, MongoDB, React, and Express.
-* ⚡ Fun fact: I love debugging and optimizing code – it's like solving a puzzle!
-* 📍 Based in Palacode, Tamil Nadu, India.
+<h1 align="center">Hi 👋, I'm Prethivraj GS</h1>
+<h3 align="center">CSE Student at Dharmapuri, Tamil Nadu, India</h3>
 
 ---
 
-### What I'm Working On & Interested In
+🌱 Currently learning:  
+**Full Stack Web Development** – focusing on the **MERN Stack**
 
-* **Building Scalable Web Applications:** Focused on creating robust and efficient full-stack solutions.
-* **Exploring New Technologies:** Always keen to learn and integrate the latest tools and frameworks into my projects.
-* **Competitive Programming/Problem Solving:** Actively working on improving my algorithmic skills.
-
----
-
-### Connect with Me
-
-* [LinkedIn](https://www.linkedin.com/in/prethivraj-gs-b42358307/)
-* 📧 Reach me at: prithivi2303@gmail.com
+📫 Reach me at:  
+**prithivi2303@gmail.com**
 
 ---
 
-### My Coding Journey & Progress
+## 🔗 Connect with Me
 
-I believe in continuous learning and tracking my progress. Here's a glimpse of my activity across different platforms:
-
-* **LeetCode:**
-    * [My LeetCode Profile](https://leetcode.com/u/6QWLrIZgOg/)
-* **HackerRank:**
-    * [HackerRank Badge](https://www.hackerrank.com/profile/prithivi2303)
-    * [My HackerRank Profile](https://www.hackerrank.com/profile/prithivi2303)
+<p align="left">
+  <a href="https://www.linkedin.com/in/prethivraj-gs-b42358307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/PrethivrajGS/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/PrethivrajGS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### GitHub Stats
+## 🛠️ Languages & Tools
 
-[![PRETHIVIRAJ GS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=dracula)](https://github.com/PrethivrajGS)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PrethivrajGS)](https://git.io/streak-stats)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+</p>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=dracula)](https://github.com/PrethivrajGS)
 ---
 
-### Languages and Tools
+## 📈 GitHub & LeetCode Stats
 
-| Category       | Tools & Languages                                                                                                                                   |
-|--------------  |-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**  | C, C++, JavaScript, Python                                                                                                                            |
-| **Frontend**   | React, HTML, CSS, JavaScript (ES6+)                                                                                                                   |
-| **Backend**    | Node.js, Express.js                                                                                                                                    |
-| **Databases**  | MongoDB                                                                                                                                               |
-| **Tools**      | Git, GitHub, VS Code, npm, Postman                                                                                                                       |
-| **Concepts**   | RESTful APIs, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Version Control                                                  |
-*/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrethivrajGS&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/PrethivrajGS?theme=dark&ext=heatmap" width="90%" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- 🔭 Build more full-stack projects using React, Node.js & MongoDB  
+- 🤝 Collaborate with developers on exciting open-source or club projects  
+- 📘 Continue writing clean, readable, and maintainable code  
+- 💡 Learn more about scalable architecture and cloud hosting  
+
+---
+
+### ✨ Thank you for visiting my profile!
+
+Feel free to explore my repositories and connect with me 😊
