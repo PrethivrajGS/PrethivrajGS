@@ -34,7 +34,7 @@ I believe in continuous learning and tracking my progress. Here's a glimpse of m
 
 * **LeetCode:**
     * [My LeetCode Profile](https://leetcode.com/u/6QWLrIZgOg/)
-      ![Leetcode Stats](https://leetcard.jacoblin.cool/PrethivrajGS)
+      ![Leetcode Stats](https://leetcard.jacoblin.cool/u/6QWLrIZgOg/)
 * **HackerRank:**
     * [HackerRank Badge](https://www.hackerrank.com/profile/prithivi2303)
     * [My HackerRank Profile](https://www.hackerrank.com/profile/prithivi2303)
