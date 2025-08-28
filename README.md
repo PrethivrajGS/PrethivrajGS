@@ -44,7 +44,8 @@ I believe in continuous learning and tracking my progress. Here's a glimpse of m
 
 [![PRETHIVIRAJ GS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=dracula)](https://github.com/PrethivrajGS)
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=PrethivrajGS&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrethivrajGS&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=dracula)](https://github.com/PrethivrajGS)
