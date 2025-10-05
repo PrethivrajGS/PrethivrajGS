@@ -1,7 +1,8 @@
 <!-- Master Head Image -->
 <p align="center">
   <a href="https://github.com/PrethivrajGS">
-    <img src="https://i.imgur.com/V7EKIeBr.jpg" alt="MasterHead" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+    <img src="[https://i.imgur.com/V7EKIeBr.jpg](https://i.imgur.com/9ZVZ1Fh.jpg
+)" alt="MasterHead" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
