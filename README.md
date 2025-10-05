@@ -1,15 +1,4 @@
-<!-- Profile Views -->
-<p align="center"><b>Profile Views</b></p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/PrethivrajGS/count.svg" alt="visitor badge"/>
-</p>
 
-<!-- Master Head Image -->
-<p align="center">
-  <a href="https://github.com/PrethivrajGS">
-    <img src="https://i.imgur.com/9ZVZ1Fh.jpg" alt="MasterHead" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
-  </a>
-</p>
 
 <h1 align="center">Hi 👋, I'm Prethivraj GS</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from Tamil Nadu, India</h3>
