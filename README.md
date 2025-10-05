@@ -49,5 +49,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/prethivrajgs" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/PrethivrajGS" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:prethivrajgs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:prithivi2303@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
