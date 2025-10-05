@@ -20,7 +20,6 @@
 - 🌱 I’m currently learning **Full Stack Development (MERN + SQL)**  
 - 💡 I love solving problems in **C, C++, and JavaScript**  
 - 🎯 Goal: Become a **Pro Full Stack Engineer**  
-- ⚡ Fun fact: I debug faster with **coffee ☕**  
 
 ---
 
