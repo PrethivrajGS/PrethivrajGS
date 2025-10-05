@@ -7,7 +7,7 @@
 <!-- Master Head Image -->
 <p align="center">
   <a href="https://github.com/PrethivrajGS">
-    <img src="https://i.imgur.com/9ZVZ1Fh.jpg" alt="MasterHead" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" width="800" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
