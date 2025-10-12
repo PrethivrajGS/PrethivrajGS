@@ -38,10 +38,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-### 🐍 My GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/PrethivrajGS/PrethivrajGS/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 
 
