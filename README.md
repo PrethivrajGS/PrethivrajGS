@@ -29,14 +29,16 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  ### 🔥 My GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </p>
+
+### 🔥 My GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
