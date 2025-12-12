@@ -29,23 +29,22 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight" />
 </p>
 
 ### 🔥 My GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrethivrajGS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-
 
 ---
 
 ### 🌟 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
 
 ---
