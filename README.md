@@ -18,14 +18,13 @@
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Full Stack Development (MERN + SQL)**  
-- 💡 I love solving problems in **C, C++, and JavaScript**  
-- 🎯 Goal: Become a **Pro Full Stack Engineer**  
+- 💡 I love solving problems in **C, C++, JavaScript and Python **  
 
 ---
 
 ### 🚀 Languages and Tools
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,c,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,c,python,git,github,vscode,linux" />
 </p>
 
 ---
