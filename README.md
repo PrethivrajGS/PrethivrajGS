@@ -35,13 +35,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 ### 🔥 My GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -49,7 +49,7 @@
 ### 🌟 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
 ### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="Contribution Graph"/>
 </p>
 
 <br/>
