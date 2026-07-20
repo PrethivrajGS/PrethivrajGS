@@ -14,47 +14,58 @@
 <h1 align="center">Hi 👋, I'm Prethivraj GS</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from Tamil Nadu, India</h3>
 
----
+<br/>
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Full Stack Development (MERN + SQL)**  
-- 💡 I love solving problems in **C, C++, JavaScript and Python **  
 
----
+- 🌱 I'm currently learning **Full Stack Development (MERN + SQL)**
+- 💡 I love solving problems in **C, C++, JavaScript and Python**
+- 📫 Reach me at **prithivi2303@gmail.com**
+
+<br/>
 
 ### 🚀 Languages and Tools
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,c,python,git,github,vscode,linux" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,c,python,git,github,vscode,linux" alt="skill icons"/>
 </p>
 
----
+<br/>
 
 ### 📊 GitHub Stats
+
 <p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### 🔥 My GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrethivrajGS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
+<br/>
 
 ### 🌟 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
+<br/>
+
 ### 📈 GitHub Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
+<br/>
+
 ### 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/prethivrajgs" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/PrethivrajGS" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:prithivi2303@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/prethivrajgs" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/PrethivrajGS" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="mailto:prithivi2303@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 </p>
