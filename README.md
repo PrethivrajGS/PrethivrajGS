@@ -32,32 +32,32 @@
 
 <br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
 </p>
 
-### 🔥 My GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
-</p>
-
-<br/>
-
-### 🌟 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight" />
 </p>
 
 <br/>
 
-### 📈 GitHub Contribution Graph
+## 🌟 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night" />
 </p>
 
 <br/>
