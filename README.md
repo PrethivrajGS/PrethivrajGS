@@ -35,32 +35,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrethivrajGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrethivrajGS&theme=tokyonight" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight" />
-</p>
-
-<br/>
+---
 
 ## 🌟 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrethivrajGS&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
-<br/>
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-<br/>
 
 ### 🤝 Connect With Me
 
