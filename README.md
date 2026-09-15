@@ -35,9 +35,24 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com/?user=PrethivrajGS&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
+<br/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PrethivrajGS&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<br/>
 <br/>
 
 ## 📈 Contribution Graph
