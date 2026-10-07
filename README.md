@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Prethivraj GS</h1>
+<h1 align="center">Hi 👋, I'm Prethivraj G S</h1>
 
 <h3 align="center">
   🚀 A Passionate Full Stack Developer from Tamil Nadu, India
