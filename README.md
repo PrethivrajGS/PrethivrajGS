@@ -60,7 +60,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=PrethivrajGS&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=PrethivrajGS&theme=tokyonight"
     alt="GitHub Streak"
   />
 </p>
